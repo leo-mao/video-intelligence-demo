@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/storage": "^0.6.1",
-    "@google-cloud/video-intelligence": "^0.1.0"
+    "@google-cloud/video-intelligence": "^1.2.0",
+    "@grpc/proto-loader": "^0.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "grpc": "^1.13.0",
+    "rimraf": "^2.6.2"
   }
 }
